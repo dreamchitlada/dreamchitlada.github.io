@@ -2,7 +2,9 @@ tunneling
 
 
 [Gartner](https://www.gartner.com/en/glossary/all-terms)
+
 •Provides services on a point-to-point basis without the necessity to change the data to accommodate differing network types or protocols.
+
 •chap gpt:"Tunneling" คือให้บริการในรูปแบบจุดต่อจุดโดยไม่จำเป็นต้องเปลี่ยนข้อมูลเพื่อให้เข้ากับประเภทเครือข่ายหรือโปรโตคอลที่แตกต่างกัน
 
 
