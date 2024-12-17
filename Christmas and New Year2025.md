@@ -1,4 +1,4 @@
-Christmas and Happy New year2025🎄🍀🤍🩵💙
+Christmas and Happy New year2025
 
 Merry Christmas and Happy New Year! Wishing you a season full of love, laughter, and joy. May the coming year bring you happiness, health, and success.
 
