@@ -1,9 +1,9 @@
 🅓🅐🅣🅐 ​ 🅠🅤🅐🅛🅘🅣🅨
 
-☁ 𝐕𝐚𝐥𝐢𝐝𝐢𝐭𝐲
+ 🛝𝐕𝐚𝐥𝐢𝐝𝐢𝐭𝐲
 
 
-[☀𝗗𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝗼𝗻](https://www.cambridgeenglish.org/blog/what-is-validity/)
+[🦖𝗗𝗲𝗳𝗶𝗻𝗶𝘁𝗶𝗼𝗻](https://www.cambridgeenglish.org/blog/what-is-validity/)
 
 The fundamental concept to keep in mind when creating any assessment is validity. 
 Validity refers to whether a test measures what it aims to measure. For example, 
@@ -17,11 +17,11 @@ such as listening to lectures, giving presentations, engaging in tutorials, writ
 การนำเสนองาน การร่วมกิจกรรมในห้องเรียน การเขียนเรียงความ และการอ่านบทความ เพื่อให้การประเมินมีความครอบคลุมและสอดคล้องกับความต้องการจริง
 
 
-[☀𝗰𝗵𝗮𝘁𝗴𝗽𝘁](https://chatgpt.com/c/676fe914-00bc-800c-b9c6-791270720aa0)
+[🐙𝗰𝗵𝗮𝘁𝗴𝗽𝘁](https://chatgpt.com/c/676fe914-00bc-800c-b9c6-791270720aa0)
 
 Validity (ความถูกต้อง) หมายถึงระดับที่การทดสอบหรือการประเมินสามารถวัดสิ่งที่ตั้งใจจะวัดได้อย่างถูกต้องและเหมาะสม หากการทดสอบมี validity ที่สูง แสดงว่าการทดสอบนั้นสามารถสะท้อนถึงเป้าหมายที่กำหนดไว้ได้จริง
 
-[☀𝗚𝗶𝗺𝗶𝗻𝗶](https://gemini.google.com/app/23630391ea6a38d6?hl=th)
+[🐛𝗚𝗶𝗺𝗶𝗻𝗶](https://gemini.google.com/app/23630391ea6a38d6?hl=th)
 
 Validity เป็นคำภาษาอังกฤษที่แปลเป็นภาษาไทยได้หลายความหมาย ขึ้นอยู่กับบริบทที่ใช้ค่ะ โดยทั่วไปแล้ว "validity" หมายถึง ความถูกต้อง หรือ ความชอบธรรม
 
@@ -35,5 +35,5 @@ Validity (ความถูกต้อง) คือแนวคิดที�
 
 ♥︎การทดสอบภาษาอังกฤษสำหรับการเข้ามหาวิทยาลัยควรสะท้อนถึงกิจกรรมที่ผู้เรียนจะพบในชีวิตการเรียนจริง เช่น การฟังบรรยาย การอ่านบทความวิชาการ การเขียนเรียงความ และการพูดในชั้นเรียน
 
-[◀ Go to my Profile](README.md)
+[🐈‍⬛ Go to my Profile](README.md)
 
