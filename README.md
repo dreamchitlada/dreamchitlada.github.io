@@ -1,7 +1,7 @@
 # dreamchitlada.github.io
  ⭑𝘿𝙧𝙚𝙖𝙢 𝘾𝙝𝙞𝙩𝙡𝙖𝙙𝙖
  
-![alt text](images/IMG_8325.jpeg)
+![alt text](images/image-clddd.jpeg)
 
 [🅣🅤🅝🅝🅔🅛🅘🅝🅖 🫒🛝](tunneling.md)
 
