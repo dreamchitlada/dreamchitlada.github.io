@@ -37,3 +37,4 @@ Validity (ความถูกต้อง) คือแนวคิดที�
 
 [🐈‍⬛ Go to my Profile](README.md)
 
+git mv DataQuality.html dataquality
