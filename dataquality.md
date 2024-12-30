@@ -37,9 +37,5 @@ Validity (ความถูกต้อง) คือแนวคิดที�
 
 [🐈‍⬛ Go to my Profile](README.md)
 
----
-layout: redirect
-redirect_to: /dataquality
----
 
 
