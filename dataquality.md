@@ -37,8 +37,9 @@ Validity (ความถูกต้อง) คือแนวคิดที�
 
 [🐈‍⬛ Go to my Profile](README.md)
 
-git mv DataQuality.html dataquality
+---
+layout: redirect
+redirect_to: /dataquality
+---
 
-git commit -m "Renamed DataQuality.html to dataquality"
-git push
 
