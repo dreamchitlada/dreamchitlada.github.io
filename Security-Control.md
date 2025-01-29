@@ -29,4 +29,7 @@
 6. 𝙘𝙤𝙣𝙩𝙧𝙤𝙡 𝙁𝙪𝙣𝙘𝙩𝙞𝙤𝙣 ▶️ 𝙋𝙧𝙚𝙫𝙚𝙣𝙩𝙖𝙩𝙞𝙫𝙚
 
 7. 𝙏𝙮𝙥𝙚 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝘾𝙤𝙣𝙩𝙧𝙤𝙡 ▶️ 𝙋𝙝𝙮𝙨𝙞𝙘𝙖𝙡 𝘾𝙤𝙣𝙩𝙧𝙤𝙡
+
   ![SucurityControl](images/IMG_2300.jpeg)
+
+[🐈‍⬛ Go to my Profile](README.md)
