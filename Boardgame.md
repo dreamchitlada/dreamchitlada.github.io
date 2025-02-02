@@ -1,8 +1,8 @@
-#  Securing the Human
+#  Securing the Human🔰
 
 ---
 
-#  Group: CSG
+#  Group: CSG🐱
 
 
 [![Video](images/IMG_6750.jpeg)](https://youtu.be/Mi-3V0bMOsI?si=o8hBzMKhL-aHv5KQ)
